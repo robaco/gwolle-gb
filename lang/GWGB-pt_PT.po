@@ -26,7 +26,7 @@ msgstr ""
 #: frontend/widget.php:143
 #@ GWGB
 msgid "Guestbook"
-msgstr ""
+msgstr "Livro de Visitas"
 
 #: actions.php:46
 #: actions.php:47
@@ -34,42 +34,42 @@ msgstr ""
 #: admin/page-settings.php:470
 #@ GWGB
 msgid "Entries"
-msgstr ""
+msgstr "Mensagens"
 
 #: actions.php:54
 #@ GWGB
 msgid "Entry editor"
-msgstr ""
+msgstr "Editor de mensagens"
 
 #: actions.php:54
 #: admin/page-gwolle-gb.php:85
 #@ GWGB
 msgid "New entry"
-msgstr ""
+msgstr "Nova mensagem"
 
 #: actions.php:57
 #: actions.php:80
 #: admin/page-settings.php:184
 #@ GWGB
 msgid "Settings"
-msgstr ""
+msgstr "Configurações"
 
 #: actions.php:60
 #@ GWGB
 msgid "Import"
-msgstr ""
+msgstr "Importar"
 
 #: actions.php:63
 #@ GWGB
 msgid "Export"
-msgstr ""
+msgstr "Exportar"
 
 #: admin/dashboard-widget.php:116
 #: admin/page-entries.php:675
 #: frontend/read.php:204
 #@ GWGB
 msgid "Edit entry"
-msgstr ""
+msgstr "Editar mensagem"
 
 #: admin/dashboard-widget.php:116
 #: admin/page-entries.php:675
@@ -83,35 +83,35 @@ msgstr "Editar"
 #: admin/page-entries.php:678
 #@ GWGB
 msgid "Check entry"
-msgstr ""
+msgstr "Confirmar mensagem"
 
 #: admin/dashboard-widget.php:120
 #: admin/page-editor.php:414
 #: admin/page-entries.php:678
 #@ GWGB
 msgid "Check"
-msgstr ""
+msgstr "Confirmar"
 
 #: admin/dashboard-widget.php:124
 #: admin/page-editor.php:417
 #: admin/page-entries.php:681
 #@ GWGB
 msgid "Uncheck entry"
-msgstr ""
+msgstr "Não confirmar mensagem"
 
 #: admin/dashboard-widget.php:124
 #: admin/page-editor.php:417
 #: admin/page-entries.php:681
 #@ GWGB
 msgid "Uncheck"
-msgstr ""
+msgstr "Não confirmar"
 
 #: admin/dashboard-widget.php:128
 #: admin/page-editor.php:420
 #: admin/page-entries.php:684
 #@ GWGB
 msgid "Mark entry as spam."
-msgstr ""
+msgstr "Marcar como spam"
 
 #: admin/dashboard-widget.php:128
 #: admin/page-editor.php:363
@@ -120,28 +120,28 @@ msgstr ""
 #: admin/page-entries.php:684
 #@ GWGB
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: admin/dashboard-widget.php:132
 #: admin/page-editor.php:423
 #: admin/page-entries.php:687
 #@ GWGB
 msgid "Mark entry as not-spam."
-msgstr ""
+msgstr "Marcar como não-spam"
 
 #: admin/dashboard-widget.php:132
 #: admin/page-editor.php:423
 #: admin/page-entries.php:687
 #@ GWGB
 msgid "Not spam"
-msgstr ""
+msgstr "Não-spam"
 
 #: admin/dashboard-widget.php:136
 #: admin/page-editor.php:426
 #: admin/page-entries.php:690
 #@ GWGB
 msgid "Move entry to trash."
-msgstr ""
+msgstr "Mover para lixo"
 
 #: admin/dashboard-widget.php:136
 #: admin/page-editor.php:373
@@ -150,87 +150,87 @@ msgstr ""
 #: admin/page-entries.php:690
 #@ GWGB
 msgid "Trash"
-msgstr ""
+msgstr "Lixo"
 
 #: admin/dashboard-widget.php:140
 #: admin/page-editor.php:429
 #: admin/page-entries.php:693
 #@ GWGB
 msgid "Recover entry from trash."
-msgstr ""
+msgstr "Recuperar do lixo"
 
 #: admin/dashboard-widget.php:140
 #: admin/page-editor.php:429
 #: admin/page-entries.php:693
 #@ GWGB
 msgid "Untrash"
-msgstr ""
+msgstr "Recuperar"
 
 #: admin/dashboard-widget.php:144
 #: admin/page-editor.php:432
 #: admin/page-entries.php:696
 #@ GWGB
 msgid "Please wait..."
-msgstr ""
+msgstr "Por favor aguarde..."
 
 #: admin/dashboard-widget.php:144
 #: admin/page-editor.php:432
 #: admin/page-entries.php:696
 #@ GWGB
 msgid "Wait..."
-msgstr ""
+msgstr "Aguarde..."
 
 #: admin/dashboard-widget.php:155
 #@ GWGB
 msgid "Refresh"
-msgstr ""
+msgstr "Atualizar"
 
 #: admin/dashboard-widget.php:156
 #@ GWGB
 msgid "View all"
-msgstr ""
+msgstr "Ver todos"
 
 #: admin/dashboard-widget.php:157
 #@ GWGB
 msgid "View new"
-msgstr ""
+msgstr "Ver novo"
 
 #: admin/dashboard-widget.php:160
 #@ GWGB
 msgid "No new and unchecked guestbook entries."
-msgstr ""
+msgstr "Não há mensagens novas ou não confirmadas"
 
 #: admin/dashboard-widget.php:167
 #@ GWGB
 msgid "Guestbook (new entries)"
-msgstr ""
+msgstr "Livro de Visitas (novas mensagens)"
 
 #: admin/installSplash.php:14
 #@ GWGB
 msgid "Installation"
-msgstr ""
+msgstr "Intalação"
 
 #: admin/installSplash.php:20
 #@ GWGB
 msgid "Welcome!<br>It seems that either you're using this plugin for the first time or you've deleted all settings.<br>However, to use this plugin we have to setup the database tables. Good for you, we've made this as easy as possible.<br>All you've got to do is click on that button below, and that's it."
-msgstr ""
+msgstr "Bem vindo!<br>Parece que você está usando este plugin pela primeira vez ou apagou as configurações"
 
 #: admin/installSplash.php:26
 #@ GWGB
 msgid "Sure, let's do this!"
-msgstr ""
+msgstr "Claro, vamos fazer isso!"
 
 #: admin/installSplash.php:33
 #, php-format
 #@ GWGB
 msgid "Allright, we're done. <a href=\"%s\">Click here to continue...</a>"
-msgstr ""
+msgstr "Ok, feito. <a href=\"%s\">Clique aqui para continuar...</a>"
 
 #: admin/installSplash.php:35
 #, php-format
 #@ GWGB
 msgid "It looks like there has been an error. <a href=\"%s\">Click here to continue...</a>"
-msgstr ""
+msgstr "Parece que houve um erro <a href=\"%s\">Clique aqui para continuar...</a>"
 
 #: admin/page-editor.php:15
 #: admin/page-entries.php:16
@@ -245,75 +245,75 @@ msgstr ""
 #: admin/page-editor.php:26
 #@ GWGB
 msgid "Edit guestbook entry"
-msgstr ""
+msgstr "Editar mensagem"
 
 #: admin/page-editor.php:39
 #@ GWGB
 msgid "Entry could not be found."
-msgstr ""
+msgstr "Mensagem não encontrada"
 
 #: admin/page-editor.php:41
 #@ GWGB
 msgid "Guestbook entry (error)"
-msgstr ""
+msgstr "Mensagem (erro)"
 
 #: admin/page-editor.php:44
 #@ GWGB
 msgid "New guestbook entry"
-msgstr ""
+msgstr "Nova mensagem"
 
 #: admin/page-editor.php:54
 #@ GWGB
 msgid "Something strange happened."
-msgstr ""
+msgstr "Algo estranho aconteceu"
 
 #: admin/page-editor.php:82
 #@ GWGB
 msgid "Submitted as Spam to the Akismet service."
-msgstr ""
+msgstr "Marcado como Spam para o Akismet Service"
 
 #: admin/page-editor.php:91
 #@ GWGB
 msgid "Submitted as Ham to the Akismet service."
-msgstr ""
+msgstr "Marcado como Ham para o Akismet service."
 
 #: admin/page-editor.php:140
 #: admin/page-gwolle-gb.php:354
 #: admin/page-settings.php:190
 #@ GWGB
 msgid "Changes saved."
-msgstr ""
+msgstr "Modificações salvas"
 
 #: admin/page-editor.php:142
 #: admin/page-editor.php:234
 #@ GWGB
 msgid "Error happened during saving."
-msgstr ""
+msgstr "Erro durante salvamento"
 
 #: admin/page-editor.php:146
 #@ GWGB
 msgid "Entry was not changed."
-msgstr ""
+msgstr "Mensagem não foi modificada"
 
 #: admin/page-editor.php:157
 #@ GWGB
 msgid "Entry removed."
-msgstr ""
+msgstr "Mensagem removida"
 
 #: admin/page-editor.php:200
 #@ GWGB
 msgid "Entry has no content, even though that is mandatory."
-msgstr ""
+msgstr "Mensagem sem conteúdo, que é obrigatório"
 
 #: admin/page-editor.php:232
 #@ GWGB
 msgid "Entry saved."
-msgstr ""
+msgstr "Mensagem salva"
 
 #: admin/page-editor.php:238
 #@ GWGB
 msgid "Entry was not saved."
-msgstr ""
+msgstr "Mensagem não foi salva"
 
 #: admin/page-editor.php:311
 #: admin/page-editor.php:404
@@ -328,61 +328,61 @@ msgstr ""
 #: admin/page-import.php:450
 #@ GWGB
 msgid "Click to open or close"
-msgstr ""
+msgstr "Clique para abrir ou fechar"
 
 #: admin/page-editor.php:311
 #@ GWGB
 msgid "Options"
-msgstr ""
+msgstr "Opções"
 
 #: admin/page-editor.php:332
 #@ GWGB
 msgid "This entry is not yet visible."
-msgstr ""
+msgstr "Mensagem ainda não está visível"
 
 #: admin/page-editor.php:336
 #: admin/page-editor.php:341
 #@ GWGB
 msgid "This entry is Visible."
-msgstr ""
+msgstr "Mensagem visível"
 
 #: admin/page-editor.php:337
 #: admin/page-editor.php:342
 #@ GWGB
 msgid "This entry is Not Visible."
-msgstr ""
+msgstr "Mensagem não visível"
 
 #: admin/page-editor.php:353
 #@ GWGB
 msgid "Checked"
-msgstr ""
+msgstr "Confirmado"
 
 #: admin/page-editor.php:381
 #@ GWGB
 msgid "Remove this entry Permanently."
-msgstr ""
+msgstr "Remover mensagem permanentemente"
 
 #: admin/page-editor.php:392
 #@ GWGB
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #: admin/page-editor.php:404
 #@ GWGB
 msgid "Actions"
-msgstr ""
+msgstr "Ações"
 
 #: admin/page-editor.php:448
 #@ GWGB
 msgid "Details"
-msgstr ""
+msgstr "Detalhes"
 
 #: admin/page-editor.php:452
 #: admin/page-entries.php:546
 #: admin/page-entries.php:562
 #@ GWGB
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: admin/page-editor.php:457
 #: admin/page-editor.php:465
@@ -391,33 +391,33 @@ msgstr ""
 #: functions/function.log.php:164
 #@ GWGB
 msgid "Unknown"
-msgstr ""
+msgstr "Desconhecido"
 
 #: admin/page-editor.php:461
 #@ GWGB
 msgid "E-Mail"
-msgstr ""
+msgstr "E-Mail"
 
 #: admin/page-editor.php:469
 #: admin/page-editor.php:513
 #@ GWGB
 msgid "Written"
-msgstr ""
+msgstr "Escrever"
 
 #: admin/page-editor.php:474
 #@ GWGB
 msgid "Not yet"
-msgstr ""
+msgstr "Ainda não"
 
 #: admin/page-editor.php:478
 #@ GWGB
 msgid "Author's IP-address"
-msgstr ""
+msgstr "IP do autor"
 
 #: admin/page-editor.php:481
 #@ GWGB
 msgid "Whois search for this IP"
-msgstr ""
+msgstr "Busca whois por este IP"
 
 #: admin/page-editor.php:489
 #@ GWGB
@@ -427,7 +427,7 @@ msgstr ""
 #: admin/page-editor.php:503
 #@ GWGB
 msgid "Entry log"
-msgstr ""
+msgstr "Log de Mensagens"
 
 #: admin/page-editor.php:522
 #@ GWGB
